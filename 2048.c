@@ -5,7 +5,7 @@
  Description : Console version of the game "2048" for GNU/Linux
  ============================================================================
  */
-
+//bombbomb;;
 #define _XOPEN_SOURCE 500
 #include <stdio.h>
 #include <stdlib.h>
