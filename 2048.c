@@ -1,4 +1,5 @@
 /*
+
  ============================================================================
  Name        : 2048.c
  Author      : Maurits van der Schee
@@ -16,6 +17,7 @@
 #include <stdint.h>
 #include <time.h>
 #include <signal.h>
+#include <io.h>
 
 #define SIZE 4
 uint32_t score=0;
